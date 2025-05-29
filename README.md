@@ -69,11 +69,8 @@ Missed cross-browser bugs	Auto checks multiple browsers/devices
 Tedious maintenance	Easy updates via baseline snapshots
 Low test confidence	High accuracy visual validations
 
+Execution
+![image](https://github.com/user-attachments/assets/ef3dcd15-fe4b-4058-ab4d-fff65ed720e1)
 
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/d1487956-bc2c-44e6-8880-d1975af1d6c5)
+Screenshot of Dashboard
+![image](https://github.com/user-attachments/assets/c1d49b7f-0c42-42b9-afba-8ab509659d2c)
