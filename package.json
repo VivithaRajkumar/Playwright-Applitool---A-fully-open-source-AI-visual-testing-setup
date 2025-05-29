@@ -1,0 +1,17 @@
+{
+  "name": "ai-visual-testing-demo",
+  "version": "1.0.0",
+  "description": "AI Visual Testing with Playwright and Applitools",
+  "main": "index.js",
+  "scripts": {
+    "test:sanity": "npx playwright test tests/sanity.spec.js",
+    "test:regression": "npx playwright test tests/regression.spec.js"
+  },
+  "author": "Vivitha Rajkumar",
+  "license": "MIT",
+  "devDependencies": {
+    "@applitools/eyes-playwright": "^1.32.0",
+    "@playwright/test": "^1.44.1",
+    "dotenv": "^16.4.5"
+  }
+}
